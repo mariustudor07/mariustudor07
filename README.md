@@ -41,7 +41,7 @@ C for the low level. Local models via **Ollama**.
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mariustudor07&show_icons=true&hide_border=true&theme=transparent&title_color=00ff41&icon_color=00ff41&text_color=656d76&rank_icon=percentile&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mariustudor07&show_icons=true&hide_border=true&theme=transparent&title_color=00ff41&icon_color=00ff41&text_color=656d76&rank_icon=percentile&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariustudor07&layout=compact&hide_border=true&theme=transparent&title_color=00ff41&text_color=656d76&langs_count=6" alt="Top languages" height="165"/>
 
 <picture>
