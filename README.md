@@ -43,3 +43,9 @@ C for the low level. Local models via **Ollama**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=mariustudor07&show_icons=true&hide_border=true&theme=transparent&title_color=00ff41&icon_color=00ff41&text_color=656d76&rank_icon=percentile&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariustudor07&layout=compact&hide_border=true&theme=transparent&title_color=00ff41&text_color=656d76&langs_count=6" alt="Top languages" height="165"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariustudor07/mariustudor07/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariustudor07/mariustudor07/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/mariustudor07/mariustudor07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+</picture>
