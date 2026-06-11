@@ -33,7 +33,7 @@ class SecurityResearcher:
         self.name       = "Marius Tudor"
         self.role       = "Cybersecurity Student & Tool Builder"
         self.university = "Anglia Ruskin University"
-        self.year       = "First Year"
+        self.year       = "Second Year"
         self.htb_team   = "Team Admin"
         self.focus      = [
             "AI-powered penetration testing",
