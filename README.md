@@ -17,7 +17,7 @@
 
 Second-year Cybersecurity at **Anglia Ruskin University** and HTB team admin. I build
 offensive-security tooling and research how small, **local** LLMs can run an autonomous
-pentest pipeline — fully air-gapped, no cloud APIs. The goal is to augment pentesters,
+pentest pipeline, fully air-gapped, no cloud APIs. The goal is to augment pentesters,
 never replace them.
 
 ### 🔭 Currently building
