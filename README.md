@@ -29,7 +29,9 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->- [Completing PortSwigger’s Server-Side Vulnerabilities Path &lpar;Apprentice&rpar;](https://mariustudor07.github.io/blog/portswigger-apprentice-path/)
+- [SQL Injection: UNION-based Data Extraction](https://mariustudor07.github.io/blog/sql-injection-union-attacks/)
+- [HTB Writeup Template &lpar;retired boxes&rpar;](https://mariustudor07.github.io/blog/htb-writeup-template/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
