@@ -25,10 +25,12 @@ never replace them.
 
 ### 🌐 Portfolio & writeups
 
-The fuller picture lives on my site: About, projects, and my security writeups
-(web exploitation and Hack The Box).
-
+About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
+
+**Latest writeups** *(auto-updated from the site)*
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
 
