@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://mariustudor07.github.io">
+    <img src="https://img.shields.io/badge/Portfolio%20%26%20Blog-mariustudor07.github.io-2ee6a0?style=flat-square&logo=githubpages&logoColor=black" alt="Portfolio & Blog"/>
+  </a>
   <a href="https://profile.hackthebox.com/profile/019c8a96-5326-7360-abe0-2c46cdd995f2">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
   </a>
@@ -19,6 +22,13 @@ Second-year Cybersecurity at **Anglia Ruskin University** and HTB team admin. I 
 offensive-security tooling and research how small, **local** LLMs can run an autonomous
 pentest pipeline, fully air-gapped, no cloud APIs. The goal is to augment pentesters,
 never replace them.
+
+### 🌐 Portfolio & writeups
+
+The fuller picture lives on my site: About, projects, and my security writeups
+(web exploitation and Hack The Box).
+
+**→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 ### 🔭 Currently building
 
