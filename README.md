@@ -29,9 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [Completing PortSwigger’s Server-Side Vulnerabilities Path &lpar;Apprentice&rpar;](https://mariustudor07.github.io/blog/portswigger-apprentice-path/)
+<!-- BLOG-POST-LIST:START -->- [HTB Crocodile](https://mariustudor07.github.io/blog/crocodile-ftp-to-web-login/)
+- [HTB Responder](https://mariustudor07.github.io/blog/responder-ntlm-capture-to-winrm/)
+- [HTB Sequel](https://mariustudor07.github.io/blog/sequel-mysql-enumeration/)
+- [Completing PortSwigger’s Server-Side Vulnerabilities Path &lpar;Apprentice&rpar;](https://mariustudor07.github.io/blog/portswigger-apprentice-path/)
 - [SQL Injection: UNION-based Data Extraction](https://mariustudor07.github.io/blog/sql-injection-union-attacks/)
-- [HTB Writeup Template &lpar;retired boxes&rpar;](https://mariustudor07.github.io/blog/htb-writeup-template/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
