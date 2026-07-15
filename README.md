@@ -29,11 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [Three AI Security Certs, and Why I Bothered](https://mariustudor07.github.io/blog/cranium-ai-security-certifications/)
-- [HTB Crocodile](https://mariustudor07.github.io/blog/crocodile-ftp-to-web-login/)
-- [HTB Responder](https://mariustudor07.github.io/blog/responder-ntlm-capture-to-winrm/)
-- [HTB Sequel](https://mariustudor07.github.io/blog/sequel-mysql-enumeration/)
-- [Completing PortSwigger’s Server-Side Vulnerabilities Path &lpar;Apprentice&rpar;](https://mariustudor07.github.io/blog/portswigger-apprentice-path/)
+<!-- BLOG-POST-LIST:START -->- [HTB Starting Point: Archetype](https://mariustudor07.github.io/blog/htb-archetype/)
+- [HTB Oopsie](https://mariustudor07.github.io/blog/htb-oopsie/)
+- [HTB Starting Point: Three](https://mariustudor07.github.io/blog/htb-three/)
+- [HTB Starting Point: Vaccine](https://mariustudor07.github.io/blog/htb-vaccine/)
+- [Three AI Security Certs, and Why I Bothered](https://mariustudor07.github.io/blog/cranium-ai-security-certifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
