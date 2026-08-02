@@ -29,11 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [THM: Free App, Free Data](https://mariustudor07.github.io/blog/thm-free-app-free-data/)
-- [THM: Room 404](https://mariustudor07.github.io/blog/thm-room-404/)
-- [THM: The Brochure](https://mariustudor07.github.io/blog/thm-the-brochure/)
-- [THM: The Concierge Knows Too Much](https://mariustudor07.github.io/blog/thm-the-concierge-knows-too-much/)
-- [HTB Starting Point: Archetype](https://mariustudor07.github.io/blog/htb-archetype/)
+<!-- BLOG-POST-LIST:START -->- [Learning Python Through Cybersecurity](https://mariustudor07.github.io/blog/learning-python-through-cybersecurity/)
+- [THM: Overheard at Breakfast](https://mariustudor07.github.io/blog/thm-overheard-at-breakfast/)
+- [THM: Beach Bar](https://mariustudor07.github.io/blog/thm-beach-bar/)
+- [THM: Packed Light](https://mariustudor07.github.io/blog/thm-packed-light/)
+- [THM: Free App, Free Data](https://mariustudor07.github.io/blog/thm-free-app-free-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
