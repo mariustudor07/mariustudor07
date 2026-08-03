@@ -29,11 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [Learning Python Through Cybersecurity](https://mariustudor07.github.io/blog/learning-python-through-cybersecurity/)
+<!-- BLOG-POST-LIST:START -->- [THM: Do Not Disturb](https://mariustudor07.github.io/blog/thm-do-not-disturb/)
+- [Learning Python Through Cybersecurity](https://mariustudor07.github.io/blog/learning-python-through-cybersecurity/)
 - [THM: Overheard at Breakfast](https://mariustudor07.github.io/blog/thm-overheard-at-breakfast/)
 - [THM: Beach Bar](https://mariustudor07.github.io/blog/thm-beach-bar/)
 - [THM: Packed Light](https://mariustudor07.github.io/blog/thm-packed-light/)
-- [THM: Free App, Free Data](https://mariustudor07.github.io/blog/thm-free-app-free-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
