@@ -29,11 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [THM: CryptoCabana](https://mariustudor07.github.io/blog/thm-cryptocabana/)
+<!-- BLOG-POST-LIST:START -->- [THM: The Hollow Shell](https://mariustudor07.github.io/blog/thm-the-hollow-shell/)
+- [THM: CryptoCabana](https://mariustudor07.github.io/blog/thm-cryptocabana/)
 - [THM: Towel on the Sunbed](https://mariustudor07.github.io/blog/thm-towel-on-the-sunbed/)
 - [THM: Do Not Disturb](https://mariustudor07.github.io/blog/thm-do-not-disturb/)
 - [Learning Python Through Cybersecurity](https://mariustudor07.github.io/blog/learning-python-through-cybersecurity/)
-- [THM: Overheard at Breakfast](https://mariustudor07.github.io/blog/thm-overheard-at-breakfast/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
