@@ -29,11 +29,11 @@ About, projects, and my full write-ups live on my site:
 **→ [mariustudor07.github.io](https://mariustudor07.github.io)**
 
 **Latest writeups** *(auto-updated from the site)*
-<!-- BLOG-POST-LIST:START -->- [THM: After Hours](https://mariustudor07.github.io/blog/thm-after-hours/)
+<!-- BLOG-POST-LIST:START -->- [THM: The GuestBook](https://mariustudor07.github.io/blog/thm-the-guest-book/)
+- [THM: After Hours](https://mariustudor07.github.io/blog/thm-after-hours/)
 - [THM: Infinity Pool](https://mariustudor07.github.io/blog/thm-infinity-pool/)
 - [THM: The Hollow Shell](https://mariustudor07.github.io/blog/thm-the-hollow-shell/)
 - [THM: CryptoCabana](https://mariustudor07.github.io/blog/thm-cryptocabana/)
-- [THM: Towel on the Sunbed](https://mariustudor07.github.io/blog/thm-towel-on-the-sunbed/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔭 Currently building
